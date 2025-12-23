@@ -83,17 +83,39 @@ Porque no es un demo suelto: es un sistema con **capas**, **métricas**, **obser
 
 ---
 
+```md
 ## 🧱 Arquitectura de Sistema (Alto Nivel)
 
 ```mermaid
 flowchart TB
-  A[Fuentes: Docs / Notas / Datos] --> B[Ingesta & Normalización]
-  B --> C[Embeddings & Índice Vectorial (RAG)]
-  C --> D[Orquestador de Agentes]
-  D --> E[Herramientas: APIs / ETL / Reglas / Análisis]
-  D --> F[Memoria & Estado]
-  D --> G[Observabilidad: logs + métricas]
-  G --> H[Dashboard / UI]
+  subgraph S1[Fuentes]
+    A1[Documentos] 
+    A2[Notas]
+    A3[Datos]
+  end
+
+  subgraph S2[Conocimiento y Retrieval]
+    B[Ingesta y Normalizacion]
+    C[Embeddings e Indice Vectorial RAG]
+  end
+
+  subgraph S3[IA y Orquestacion]
+    D[Orquestador de Agentes]
+    F[Memoria y Estado]
+  end
+
+  subgraph S4[Ejecucion y Control]
+    E[Herramientas APIs ETL Reglas Analisis]
+    G[Observabilidad Logs y Metricas]
+    H[Dashboard UI]
+  end
+
+  A1 --> B
+  A2 --> B
+  A3 --> B
+  B --> C --> D
+  D --> E
+  D --> F
+  D --> G
+  G --> H
   E --> H
-
-
