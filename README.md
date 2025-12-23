@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Manuel%20Marco&fontSize=80&animation=fadeIn&fontAlignY=35&desc=The%20Bridge%20Between%20Sales%20%26%20AI%20Code&descAlignY=55&descAlign=50" alt="Manuel Marco Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Manuel%20Marco&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Developer%20%26%20Growth%20Partner&descAlignY=55&descAlign=50" alt="Manuel Marco Header" width="100%" />
 </div>
 
 <div align="center">
   
-  ### ⚡ AI Automation Developer | Ex-CEO & High-Ticket Closer
+  ### ⚡ AI Solutions Architect | Ex-CEO & Sales Expert
   
   <p align="center">
-    <b>¿Buscas un dev que entienda el ROI?</b><br>
-    Transformo 10 años de experiencia cerrando ventas y liderando equipos en <b>soluciones de IA</b> que facturan.
+    <b>Del "Cierre de Ventas" al "Despliegue de Código".</b><br>
+    Combino 10 años de estrategia comercial con <b>Desarrollo Full-Stack e Inteligencia Artificial</b>.
     <br><br>
-    <i>"No solo escribo código. Construyo sistemas que resuelven problemas de negocio reales."</i>
+    <i>"No entrego scripts sueltos. Construyo aplicaciones web completas impulsadas por IA que resuelven problemas de negocio."</i>
   </p>
 
   <a href="https://www.linkedin.com/in/manuel-marco-del-pino/" target="_blank">
@@ -25,54 +25,52 @@
 
 ---
 
-### 🧠 MI PROPUESTA DE VALOR (El Perfil Híbrido)
+### 🧠 MI PROPUESTA DE VALOR (Hybrid Profile)
 
-La mayoría de desarrolladores no entienden de ventas. La mayoría de vendedores no saben programar. **Yo hago las dos.**
+Lo que me diferencia del 99% de desarrolladores es que yo **diseño la interfaz, programo la inteligencia y entiendo la venta**.
 
-| 🐺 El Vendedor (Mi Pasado) | 🤖 El Ingeniero (Mi Presente) | 🚀 El Resultado (Para ti) |
+| 💼 Business Mindset | 🤖 AI Engineering | 🎨 Web & Product Design |
 | :--- | :--- | :--- |
-| +10 Años en Ventas B2B | Python & IA Developer | **Herramientas que se usan y venden** |
-| Gestión de Equipos & KPIs | Automatización (n8n/Make) | **Procesos eficientes y escalables** |
-| Entendimiento del Cliente | RAG & LLMs | **Chatbots que sí cierran ventas** |
+| +10 Años en Ventas B2B | RAG & LLM Agents | UI/UX & Frontend |
+| Estrategia de Crecimiento | Computer Vision & NLP | Dashboards Interactivos |
+| **Resultado: ROI** | **Resultado: Automatización** | **Resultado: Usabilidad** |
 
 ---
 
 ### 🛠️ ARSENAL TECNOLÓGICO
 
-> *Stack enfocado en Datos, Automatización y Modelos de Lenguaje.*
+> *Stack basado en el programa Hackio IA Developer.*
 
 <div align="center">
 
-| **Core & Data** | **AI & LLMs** | **Backend & Auto** |
+| **Core & Data** | **AI & Models** | **Web & Backend** |
 | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br> <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"> <br> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> | <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white"> <br> <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"> <br> <img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"> | <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <br> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <br> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"> |
+| <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> <br> <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"> | <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white"> <br> <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"> <br> <img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"> | <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <br> <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"> <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> |
 
 </div>
 
 ---
 
-### 💣 PROYECTOS "KILLER" (Business Intelligence)
+### 💣 PROYECTOS DESTACADOS (Code + Design)
 
-Estos no son ejercicios de clase. Son soluciones diseñadas para **ahorrar tiempo y ganar dinero**.
+#### 1️⃣ [🤖 Enterprise Knowledge Bot (RAG)](link_a_tu_repo)
+> **Stack:** `LangChain` `OpenAI` `Streamlit/Web`
+> * **Business Goal:** Reducir el tiempo de onboarding de empleados.
+> * **Tech:** Sistema RAG (Retrieval Augmented Generation) que ingiere PDFs corporativos y responde dudas en una interfaz web amigable.
 
-#### 1️⃣ [🤖 RAG Sales Closer Bot](link_a_tu_repo_o_demo)
-> **El problema:** Los equipos de soporte tardan demasiado en responder dudas técnicas, enfriando la venta.
-> **La solución:** Un asistente inteligente entrenado con manuales técnicos (PDFs) que responde al instante con precisión y cita la fuente.
-> * **Tech:** `LangChain` `OpenAI` `Pinecone` `Streamlit`
+#### 2️⃣ [👁️ Visual Quality Inspector](link_a_tu_repo)
+> **Stack:** `OpenCV` `YOLO` `Python`
+> * **Business Goal:** Automatización de control de calidad industrial (Sector Automoción).
+> * **Tech:** Modelo de Visión por Computador capaz de detectar defectos en imágenes en tiempo real.
 
-#### 2️⃣ [🎯 AI Lead Scoring Predictor](link_a_tu_repo_o_demo)
-> **El problema:** Se pierde tiempo llamando a leads que nunca comprarán.
-> **La solución:** Modelo de ML que analiza el historial del CRM y asigna una probabilidad de compra a cada nuevo lead.
-> * **Tech:** `Scikit-learn` `Pandas` `Jupyter`
-
-#### 3️⃣ [⚡ Outreach Hyper-Personalizer](link_a_tu_repo_o_demo)
-> **El problema:** El "Cold Email" genérico ya no funciona.
-> **La solución:** Sistema que escrapea noticias recientes de la empresa objetivo y redacta un email de apertura único usando GPT-4.
-> * **Tech:** `Python` `n8n` `SerpAPI`
+#### 3️⃣ [⚡ Smart Sales Dashboard](link_a_tu_repo)
+> **Stack:** `FastAPI` `Pandas` `React/HTML`
+> * **Business Goal:** Visualizar leads calientes automáticamente.
+> * **Tech:** API Rest que procesa datos del CRM, aplica un modelo de Scoring predictivo y los muestra en un dashboard de diseño limpio.
 
 ---
 
-### 📈 MIS ESTADÍSTICAS (GitHub Stats)
+### 📈 MIS ESTADÍSTICAS
 
 <div align="center">
 <a href="https://github.com/migratoriodearenamanuel">
@@ -84,10 +82,6 @@ Estos no son ejercicios de clase. Son soluciones diseñadas para **ahorrar tiemp
 ---
 
 <div align="center">
-  <h3>🤝 ¿Listo para escalar?</h3>
-  <p>Estoy abierto a roles remotos de <b>AI Developer</b>, <b>Automation Engineer</b> o <b>Technical Growth Partner</b>.</p>
-  
-  <a href="mailto:TU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/MÁNDAME_UN_CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
-  </a>
+  <h3>🤝 Open to Work</h3>
+  <p>Busco roles remotos donde pueda aplicar <b>Código, Diseño y Estrategia</b>.</p>
 </div>
