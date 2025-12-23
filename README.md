@@ -5,7 +5,7 @@ Objetivo: que en 20 segundos se entienda QUIÉN soy, QUÉ construyo y CÓMO cont
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=235&section=header&text=Manuel%20Marco%20del%20Pino&fontSize=54&fontAlignY=34&desc=Soluciones%20de%20IA%20aplicadas%20a%20negocio%20%7C%20Arquitectura%20%2B%20Automatizaci%C3%B3n%20%2B%20Producto%20%7C%20Remoto%20(EU)&descAlignY=60"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=235&section=header&text=Manuel%20Marco%20del%20Pino&fontSize=54&fontAlignY=34&desc=Soluciones%20de%20IA%20aplicadas%20a%20negocio%20%7C%20Arquitectura%20%2B%20Automatizaci%C3%B3n%20%2B%20Producto%20%7C%20Remoto%20&descAlignY=60"
     alt="Header Manuel Marco del Pino"
     width="100%"
   />
