@@ -43,7 +43,7 @@ Objetivo: que en 20 segundos se entienda QUIÉN soy, QUÉ construyo y CÓMO cont
 
 ## 🎯 Rol ideal (para equipos serios)
 **Applied AI Engineer / AI Automation Engineer / Solutions Architect / AI Product Engineer**  
-Enfoque: **RAG + Agentes + Backend + Automatización + Web/UI** (remoto EU).
+Enfoque: **RAG + Agentes + Backend + Automatización + Web/UI** (remoto).
 
 ---
 
