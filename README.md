@@ -25,7 +25,7 @@ Objetivo: que en 20 segundos se entienda QUIÉN eres, QUÉ construyes y CÓMO co
   <a href="https://www.linkedin.com/in/manuel-marco-del-pino/">
     <img src="https://img.shields.io/badge/LinkedIn-Manuel%20Marco%20del%20Pino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_EMAIL_AQUI">
+  <a href="mailto:manuelmarcodelpino.mmdp@gmail.com">
     <img src="https://img.shields.io/badge/Email-TU_EMAIL_AQUI-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- TODO (opcional): añade tu Calendly si lo usas
