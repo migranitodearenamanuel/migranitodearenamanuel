@@ -83,8 +83,11 @@ Porque no es un demo suelto: es un sistema con **capas**, **métricas**, **obser
 
 ---
 
+
+Si quieres la versión “más wow” con **subgrupos** (igual de compatible), pega esta en vez de la anterior:
+
 ```md
-🧱 Arquitectura de Sistema (Alto Nivel)
+## 🧱 Arquitectura de Sistema (Alto Nivel)
 
 ```mermaid
 flowchart TB
