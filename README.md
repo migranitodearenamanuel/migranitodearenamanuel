@@ -1,14 +1,5 @@
-<!--
-README de Perfil (migranitodearenamanuel)
-Objetivo: que en 20 segundos se entienda QUIÉN soy, QUÉ construyo y CÓMO contactarme.
--->
-
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=235&section=header&text=Manuel%20Marco%20del%20Pino&fontSize=54&fontAlignY=34&desc=Soluciones%20de%20IA%20aplicadas%20a%20negocio%20%7C%20Arquitectura%20%2B%20Automatizaci%C3%B3n%20%2B%20Producto%20%7C%20Remoto%20&descAlignY=60"
-    alt="Header Manuel Marco del Pino"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=235&section=header&text=Manuel%20Marco%20del%20Pino&fontSize=54&fontAlignY=34&desc=Soluciones%20de%20IA%20aplicadas%20a%20negocio%20%7C%20Arquitectura%20%2B%20Automatizaci%C3%B3n%20%2B%20Producto%20%7C%20Remoto%20&descAlignY=60" alt="Header Manuel Marco del Pino" width="100%" />
 </div>
 
 <div align="center">
@@ -33,30 +24,30 @@ Objetivo: que en 20 segundos se entienda QUIÉN soy, QUÉ construyo y CÓMO cont
 <hr/>
 
 ## ⚡ En 15 segundos: qué hago (y por qué te interesa)
-- **Diseño y construyo** soluciones de IA de punta a punta: *concepto → arquitectura → backend → UI → despliegue*.
-- **Automatizo procesos donde hay dinero y fricción**: ventas, soporte, operaciones, reporting y decisión.
-- **Me muevo por métricas**: trazabilidad, logs, observabilidad y objetivos. Si no se mide, no existe.
+* **Diseño y construyo** soluciones de IA de punta a punta: *concepto → arquitectura → backend → UI → despliegue*.
+* **Automatizo procesos donde hay dinero y fricción**: ventas, soporte, operaciones, reporting y decisión.
+* **Me muevo por métricas**: trazabilidad, logs, observabilidad y objetivos. Si no se mide, no existe.
 
-> Si buscas a alguien que entienda al CTO **y** al CEO en la misma conversación, estás en el sitio correcto.
+> *Si buscas a alguien que entienda al CTO **y** al CEO en la misma conversación, estás en el sitio correcto.*
 
 ---
 
 ## 🎯 Rol ideal (para equipos serios)
-**Applied AI Engineer / AI Automation Engineer / Solutions Architect / AI Product Engineer**  
+**Applied AI Engineer / AI Automation Engineer / Solutions Architect / AI Product Engineer**
 Enfoque: **RAG + Agentes + Backend + Automatización + Web/UI** (remoto).
 
 ---
 
 ## 🏆 Señales de impacto (rápidas)
-- He liderado proyectos con **crecimientos >30%** en clientes mediante estrategia digital + automatización.  
-- Experiencia real de “campo”: gestión comercial B2B (España/Portugal), reporting diario y ejecución autónoma.  
-- Reconocimientos en entornos competitivos (ventas y liderazgo de equipos).
+* He liderado proyectos con **crecimientos >30%** en clientes mediante estrategia digital + automatización.
+* Experiencia real de “campo”: gestión comercial B2B (España/Portugal), reporting diario y ejecución autónoma.
+* Reconocimientos en entornos competitivos (ventas y liderazgo de equipos).
 
 ---
 
 # 🔥 Proyecto Insignia — ZEROX
 > **ZEROX** es una suite modular de **automatización + analítica con IA** orientada a convertir conocimiento y señales complejas en **decisiones ejecutables**.
-> Arquitectura multiagente, aprendizaje incremental, UI de supervisión y reporting.  
+> Arquitectura multiagente, aprendizaje incremental, UI de supervisión y reporting.
 >
 > ⚠️ **Nota importante:** ZEROX se presenta aquí como **proyecto técnico de arquitectura y software**. *No es asesoramiento financiero.*
 
@@ -65,43 +56,35 @@ Porque no es un demo suelto: es un sistema con **capas**, **métricas**, **obser
 
 ---
 
-## 🧠 Caso de estudio 1 — ZEROX: Agentes + RAG (la “mente”)
-**Reto:** convertir conocimiento disperso (documentos, notas, marcos de análisis) en un sistema que **responda, razone y aprenda**.
+### 🧠 Caso 1 — ZEROX: Agentes + RAG (la “mente”)
+**Reto:** Convertir conocimiento disperso (documentos, notas, marcos de análisis) en un sistema que **responda, razone y aprenda**.
 
-**Qué construí:**
-- Ingesta de documentación → indexación → búsqueda semántica (**RAG**).
-- Orquestación de herramientas/agentes (planificación, ejecución, verificación).
-- Respuestas con estructura: **qué**, **por qué** y **con qué evidencia** (cuando aplica).
-
-**Qué demuestra:** arquitectura, diseño de flujos, rigor y orientación a producto.
+* **Qué construí:** Ingesta de documentación → indexación → búsqueda semántica (**RAG**).
+* **Orquestación:** Agentes (planificación, ejecución, verificación) usando modelos locales y APIs.
+* **Resultado:** Respuestas con estructura: **qué**, **por qué** y **con qué evidencia**.
 
 ---
 
-## 📊 Caso de estudio 2 — ZEROX: Observabilidad + Dashboard (control total)
-**Reto:** si la IA es una caja negra, es un riesgo. Necesitas una cabina de mando.
+### 📊 Caso 2 — ZEROX: Observabilidad + Dashboard (control)
+**Reto:** Si la IA es una caja negra, es un riesgo. Necesitas una cabina de mando.
 
-**Qué construí:**
-- **UI/Dashboard** para supervisar el sistema, ver métricas y estados.
-- **Logs auditables**: cada decisión deja rastro (inputs, outputs, timestamps).
-- Métrica de riesgo propia (**score de vulnerabilidad**) para apoyar decisiones con criterio.
-
-**Qué demuestra:** mentalidad de ingeniería, “production thinking” y seguridad operacional.
+* **Qué construí:** **UI/Dashboard** para supervisar el sistema, ver métricas y estados.
+* **Logs auditables:** Cada decisión deja rastro (inputs, outputs, timestamps).
+* **Risk Score:** Métrica propia de vulnerabilidad para apoyar decisiones.
 
 ---
 
-## 🔌 Caso de estudio 3 — ZEROX: Integraciones + Automatización (del “pensar” al “hacer”)
-**Reto:** conectar el cerebro (IA) con el mundo real (APIs, datos, reporting) de forma robusta.
+### 🔌 Caso 3 — ZEROX: Integraciones (del “pensar” al “hacer”)
+**Reto:** Conectar el cerebro (IA) con el mundo real (APIs, datos, reporting) de forma robusta.
 
-**Qué construí:**
-- Integración con APIs y servicios externos (arquitectura de conectores).
-- Workflows de automatización (reporting, tareas, extracción y normalización de datos).
-- Ledger / “fuente de verdad” para consistencia y trazabilidad.
-
-**Qué demuestra:** backend, integración, automatización, fiabilidad.
+* **Qué construí:** Arquitectura de conectores con APIs externas.
+* **Workflows:** Automatización de tareas, extracción y normalización de datos.
+* **Ledger:** “Fuente de verdad” para consistencia y trazabilidad.
 
 ---
 
-## 🧱 Arquitectura (alto nivel)
+## 🧱 Arquitectura de Sistema (Alto Nivel)
+
 ```mermaid
 flowchart TB
   A[Fuentes: Docs / Notas / Datos] --> B[Ingesta & Normalización]
