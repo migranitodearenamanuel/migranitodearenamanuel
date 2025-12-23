@@ -83,7 +83,7 @@ Porque no es un demo suelto: es un sistema con **capas**, **métricas**, **obser
 
 ---
 
-## 🧱 Arquitectura de Sistema (Alto Nivel)
+## 🧱 Arquitectura de Sistema 
 
 ```mermaid
 flowchart TB
