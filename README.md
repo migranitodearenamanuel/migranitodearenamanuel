@@ -45,7 +45,7 @@ Enfoque: **RAG + Agentes + Backend + Automatización + Web/UI** (remoto).
 
 ---
 
-# 🔥 Proyecto Insignia — ZEROX
+# 🔥 [Proyecto Insignia — ZEROX](https://github.com/migranitodearenamanuel/Zerox-Core)
 > **ZEROX** es una suite modular de **automatización + analítica con IA** orientada a convertir conocimiento y señales complejas en **decisiones ejecutables**.
 > Arquitectura multiagente, aprendizaje incremental, UI de supervisión y reporting.
 >
