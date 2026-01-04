@@ -18,7 +18,6 @@
   <a href="mailto:manuelmarcodelpino.mmdp@gmail.com">
     <img src="https://img.shields.io/badge/Email-hablemos_de_impacto-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Disponible-Remoto%20(EU)-1f6feb?style=for-the-badge" alt="Remoto"/>
 </div>
 
 <hr/>
