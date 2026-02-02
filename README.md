@@ -87,8 +87,8 @@ graph TD
 
     subgraph "Núcleo de IA (Backend Python)"
         B --> C{Orquestador LangChain}
-        C <-->|Consultas Semánticas| D[(Vector DB - Chroma)]
-        C <-->|Inferencia| E[LLM Engine (Ollama/OpenAI)]
+        C <-->|Consultas Semánticas| D[("Vector DB - Chroma")]
+        C <-->|Inferencia| E["LLM Engine (Ollama/OpenAI)"]
         
         subgraph "Agentes Especializados"
             F[Agente Analista]
@@ -107,3 +107,10 @@ graph TD
     style C fill:#f9f,stroke:#333,stroke-width:2px
     style D fill:#bbf,stroke:#333,stroke-width:2px
     style E fill:#bfb,stroke:#333,stroke-width:2px
+
+    <div align="center"> <h3>📈 Estadísticas de GitHub</h3>
+
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmigranitodearenamanuel%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Manu's GitHub Stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmigranitodearenamanuel%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" /> </div>
+
+<div align="center"> <i>"La mejor forma de predecir el futuro es implementarlo."</i> </div>
