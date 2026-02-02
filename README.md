@@ -132,7 +132,7 @@ graph TD
     style E fill:#bfb,stroke:#333,stroke-width:2px
 ```
 
-## 🎯 Próximos Pasos & Objetivos 2025
+## 🎯 Próximos Pasos & Objetivos 2026
 
 Estoy enfocado en profundizar en:
 
@@ -146,9 +146,6 @@ Estoy enfocado en profundizar en:
   <h3>📈 Estadísticas de GitHub</h3>
   <p><i>La constancia es la única métrica que importa a largo plazo.</i></p>
   <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=migranitodearenamanuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migranitodearenamanuel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
