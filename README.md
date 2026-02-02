@@ -130,6 +130,7 @@ graph TD
     style C fill:#f9f,stroke:#333,stroke-width:2px
     style D fill:#bbf,stroke:#333,stroke-width:2px
     style E fill:#bfb,stroke:#333,stroke-width:2px
+```
 
 ## 🎯 Próximos Pasos & Objetivos 2025
 
