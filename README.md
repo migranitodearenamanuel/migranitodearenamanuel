@@ -1,96 +1,109 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=235&section=header&text=Manuel%20Marco%20del%20Pino&fontSize=54&fontAlignY=34&desc=Soluciones%20de%20IA%20aplicadas%20a%20negocio%20%7C%20Arquitectura%20%2B%20Automatizaci%C3%B3n%20%2B%20Producto%20%7C%20Remoto%20&descAlignY=60" alt="Header Manuel Marco del Pino" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=280&section=header&text=Manuel%20Marco%20del%20Pino&fontSize=50&fontAlignY=35&desc=AI%20Solutions%20Architect%20%7C%20Business%20Automation%20%7C%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn&fontColor=ffffff" alt="Header Manuel Marco del Pino" width="100%" />
 </div>
 
 <div align="center">
-  <h2>Del <i>cierre de ventas</i> al <i>despliegue de código</i>.</h2>
+  <h3>🚀 Del <i>cierre de negocios</i> al <i>despliegue de arquitecturas escalables</i>.</h3>
 
-  <p>
-    Soy <b>Manuel Marco del Pino (Manu)</b>. Combino <b>+10 años en ventas B2B y dirección comercial</b> con <b>ingeniería aplicada de IA</b>
-    para construir <b>sistemas</b> (no “scripts”) que automatizan procesos, mejoran decisiones y se miden con métricas reales.
+  <p width="80%">
+    Soy <b>Manu</b>. He transformado <b>+10 años de liderazgo en ventas y gestión B2B</b> en una carrera de <b>Ingeniería de IA Aplicada</b>.
+    <br>
+    No escribo scripts sueltos; diseño <b>ecosistemas de software</b> que resuelven problemas reales de negocio, reducen costes y operan de forma autónoma.
   </p>
 
-  <p><i>“Lo que no se ve… es lo que transforma.”</i></p>
+  <p><i>"Código limpio. Arquitectura robusta. Impacto medible."</i></p>
 
-  <a href="https://www.linkedin.com/in/manuel-marco-del-pino/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:manuelmarcodelpino.mmdp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hablemos_de_impacto-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/manuel-marco-del-pino/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Conectar_Profesionalmente-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:manuelmarcodelpino.mmdp@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Hablemos_de_Proyectos-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/migranitodearenamanuel">
+      <img src="https://img.shields.io/badge/GitHub-Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </div>
 </div>
 
-<hr/>
+<br>
 
-## ⚡ En 15 segundos: qué hago (y por qué te interesa)
-* **Diseño y construyo** soluciones de IA de punta a punta: *concepto → arquitectura → backend → UI → despliegue*.
-* **Automatizo procesos donde hay dinero y fricción**: ventas, soporte, operaciones, reporting y decisión.
-* **Me muevo por métricas**: trazabilidad, logs, observabilidad y objetivos. Si no se mide, no existe.
+## ⚡ Executive Summary: Mi Valor Diferencial
+Lo que me hace único no es solo el código, es la **visión híbrida**:
 
-> *Si buscas a alguien que entienda al CTO **y** al CEO en la misma conversación, estás en el sitio correcto.*
+* 🧠 **Business-Driven Development:** Entiendo el ROI antes de abrir el IDE. Si no aporta valor al negocio, no se codea.
+* 🏗️ **Arquitectura End-to-End:** Desde el diseño del sistema (UML/Mermaid) hasta el despliegue y la observabilidad.
+* 🤖 **AI Native:** Especialista en **Sistemas Agénticos**, **RAG Avanzado** y **Fine-Tuning** de LLMs.
 
----
-
-## 🎯 Rol ideal (para equipos serios)
-**Applied AI Engineer / AI Automation Engineer / Solutions Architect / AI Product Engineer**
-Enfoque: **RAG + Agentes + Backend + Automatización + Web/UI** (remoto).
+> *Busco roles como **AI Engineer, Automation Architect o Python Developer** en equipos que valoren la autonomía y la excelencia técnica.*
 
 ---
 
-## 🏆 Señales de impacto (rápidas)
-* He liderado proyectos con **crecimientos >30%** en clientes mediante estrategia digital + automatización.
-* Experiencia real de “campo”: gestión comercial B2B (España/Portugal), reporting diario y ejecución autónoma.
-* Reconocimientos en entornos competitivos (ventas y liderazgo de equipos).
+## 🛠️ Tech Stack & Arsenal
+*Evidencia basada en mis repositorios públicos y privados.*
+
+| Dominio | Tecnologías y Herramientas |
+| :--- | :--- |
+| **🧠 AI Core & LLMs** | `LangChain`, `OpenAI API`, `Google Gemini`, `Ollama` (Local LLMs), `Hugging Face`, `PyTorch` |
+| **🔍 RAG & Vectores** | `ChromaDB`, `FAISS`, `Embeddings`, `Recursive Character Splitting` |
+| **⚡ Backend & APIs** | `Python` (AsyncIO, Pydantic), `FastAPI`, `LangServe`, `REST APIs` |
+| **📊 Data & Math** | `Pandas`, `NumPy`, `SQLAlchemy`, `SQL` (MySQL), `NoSQL` (MongoDB) |
+| **🎨 Frontend & UI** | `Streamlit`, `HTML5`, `CSS3`, `JavaScript` (ES6+), `Vite` |
+| **🔊 Audio & Visión** | `Whisper` (ASR), `Google Vision API`, `Librosa`, `TTS Models` |
+| **⚙️ DevOps & Tools** | `Git`, `Docker`, `n8n`, `Make`, `Postman`, `VS Code` |
 
 ---
 
-# 🔥 [Proyecto Insignia — ZEROX](https://github.com/migranitodearenamanuel/Zerox-Core)
-> **ZEROX** es una suite modular de **automatización + analítica con IA** orientada a convertir conocimiento y señales complejas en **decisiones ejecutables**.
-> Arquitectura multiagente, aprendizaje incremental, UI de supervisión y reporting.
->
-> ⚠️ **Nota importante:** ZEROX se presenta aquí como **proyecto técnico de arquitectura y software**. *No es asesoramiento financiero.*
+## 🔥 Proyecto Insignia: [ZEROX - CORE](https://github.com/migranitodearenamanuel/Zerox-Core)
+> **Estado:** *En desarrollo activo* | **Tipo:** *Arquitectura Multi-Agente Autónoma*
 
-### Por qué ZEROX es “portfolio de verdad”
-Porque no es un demo suelto: es un sistema con **capas**, **métricas**, **observabilidad**, **orquestación** y **criterios de seguridad**.
+**ZEROX** no es un bot de trading. Es una **arquitectura de software compleja** diseñada para la toma de decisiones financieras autónomas en entornos de alta incertidumbre. Combina análisis cuantitativo tradicional con el razonamiento semántico de los LLMs.
 
----
+### 🧩 Módulos Clave del Sistema
 
-### 🧠 Caso 1 — ZEROX: Agentes + RAG (la “mente”)
-**Reto:** Convertir conocimiento disperso (documentos, notas, marcos de análisis) en un sistema que **responda, razone y aprenda**.
+#### 1. El "Cerebro" (Reasoning Engine)
+* **Arquitectura:** Sistema Multi-Agente orquestado con **LangChain**.
+* **Innovación:** Implementación de **Chain-of-Thought (CoT)** para que los agentes "razonen" antes de actuar, reduciendo alucinaciones.
+* **Tech:** Modelos locales (Llama 3) para privacidad y velocidad + Modelos cloud para validación.
 
-* **Qué construí:** Ingesta de documentación → indexación → búsqueda semántica (**RAG**).
-* **Orquestación:** Agentes (planificación, ejecución, verificación) usando modelos locales y APIs.
-* **Resultado:** Respuestas con estructura: **qué**, **por qué** y **con qué evidencia**.
+#### 2. La "Memoria" (Advanced RAG)
+* **Funcionalidad:** Ingesta dinámica de noticias financieras y documentación técnica.
+* **Vector Store:** Uso de **ChromaDB** para recuperación semántica de contexto relevante en milisegundos.
 
----
-
-### 📊 Caso 2 — ZEROX: Observabilidad + Dashboard (control)
-**Reto:** Si la IA es una caja negra, es un riesgo. Necesitas una cabina de mando.
-
-* **Qué construí:** **UI/Dashboard** para supervisar el sistema, ver métricas y estados.
-* **Logs auditables:** Cada decisión deja rastro (inputs, outputs, timestamps).
-* **Risk Score:** Métrica propia de vulnerabilidad para apoyar decisiones.
+#### 3. Los "Ojos" (Observabilidad)
+* **Dashboard:** Interfaz en **Streamlit** para monitoreo en tiempo real de los agentes.
+* **Logging:** Sistema robusto de logs para auditoría de cada decisión tomada por la IA.
 
 ---
 
-### 🔌 Caso 3 — ZEROX: Integraciones (del “pensar” al “hacer”)
-**Reto:** Conectar el cerebro (IA) con el mundo real (APIs, datos, reporting) de forma robusta.
-
-* **Qué construí:** Arquitectura de conectores con APIs externas.
-* **Workflows:** Automatización de tareas, extracción y normalización de datos.
-* **Ledger:** “Fuente de verdad” para consistencia y trazabilidad.
-
----
-
-## 🧱 Arquitectura de Sistema 
+## 🧱 Arquitectura del Sistema (High-Level)
 
 ```mermaid
-flowchart TB
-  A[Fuentes Docs Notas Datos] --> B[Ingesta y Normalizacion]
-  B --> C[Embeddings e Indice Vectorial RAG]
-  C --> D[Orquestador de Agentes]
-  D --> E[Herramientas APIs ETL Reglas Analisis]
-  D --> F[Memoria y Estado]
-  D --> G[Observabilidad Logs y Metricas]
-  G --> H[Dashboard UI]
-  E --> H
+graph TD
+    subgraph "Ingesta de Datos"
+        A[APIs Financieras] -->|JSON| B(Normalizador de Datos)
+        DOCS[Documentos / Noticias] -->|Texto| B
+    end
+
+    subgraph "Núcleo de IA (Backend Python)"
+        B --> C{Orquestador LangChain}
+        C <-->|Consultas Semánticas| D[(Vector DB - Chroma)]
+        C <-->|Inferencia| E[LLM Engine (Ollama/OpenAI)]
+        
+        subgraph "Agentes Especializados"
+            F[Agente Analista]
+            G[Agente de Riesgo]
+            H[Agente Ejecutor]
+        end
+        
+        C --> F & G & H
+    end
+
+    subgraph "Salida & Control"
+        H -->|Ejecución| I[API Exchange]
+        F & G -->|Logs & Métricas| J[Streamlit Dashboard]
+    end
+
+    style C fill:#f9f,stroke:#333,stroke-width:2px
+    style D fill:#bbf,stroke:#333,stroke-width:2px
+    style E fill:#bfb,stroke:#333,stroke-width:2px
